@@ -30,10 +30,10 @@ sidebar_position: 2
 
 为了做到这些，你需要:
 
-1. [加入 crowdin](join-crowdin)
-2. [阅读翻译须知](notes-before-translation)
+1. [加入 crowdin](translator/join-crowdin.md)
+2. [阅读翻译须知](translator/notes-before-translation.md)
 3. 关注主要仓库中的用户反馈 <https://github.com/dapr-cn/docs/issues>
-4. [确认翻译成果](focus-on-result)
+4. [确认翻译成果](translator/focus-on-result.md)
 
 你的贡献起着是对社区大众最为直接的作用，正因为你的参与，才使得中文文档库的内容得以丰富。
 
