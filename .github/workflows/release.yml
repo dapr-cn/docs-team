@@ -32,4 +32,4 @@ jobs:
         with:
           email: dapr-cn@hotmail.com
           build_dir: src/build
-          cname: daprtranslations.newbe.pro
+          cname: daprcn-docs-team-pages.newbe.pro
