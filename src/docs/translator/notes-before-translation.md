@@ -40,6 +40,8 @@ sidebar_position: 2
 
 如果你的界面上找不到该选项，不必担心，不要翻译该内容即可。
 
+细节的原因是: <https://github.com/dapr-cn/docs/issues/67>
+
 ### Hugo 头部标记
 
 dapr 文档库原文采用的是 Hugo 作为网站生成器。为了确保文档结构，链接完整等原因。 Hugo 文档的头部标记中仅有少部分内容需要翻译。
@@ -54,15 +56,12 @@ linkTitle: "Docs"
 weight: 2000
 description: >
   Guidelines for contributing to the Dapr Docs
-aliases:
-  - "/developing-applications/building-blocks/actors/actors-background"
 ---
 ```
 
 翻译的要点如下：
 
 - 其中，除了 title、linkTitle 和 description 之外的内容都不需要翻译。
-- 如果有 aliases ，则需要为对应的链接添加 `/zh-hans/`。 [此问题在这里有详细的讨论](https://github.com/dapr/docs/pull/1377#issuecomment-816822405)
 
 因此，翻译的结果如下：
 
@@ -74,8 +73,6 @@ linkTitle: "文档贡献"
 weight: 2000
 description: >
   向 Dapr Docs 投稿的准则
-aliases:
-  - "/zh-hans/developing-applications/building-blocks/actors/actors-background"
 ---
 ```
 
