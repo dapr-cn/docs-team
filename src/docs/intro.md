@@ -25,4 +25,4 @@ sidebar_position: 1
 
 那么，你来对地方了！
 
-[点击此处，展开了解](actors.md)
+[点击此处，展开了解](https://cn.dapr.io/)
